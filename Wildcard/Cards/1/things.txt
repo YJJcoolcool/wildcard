@@ -1,0 +1,12 @@
+cat
+dog
+train
+book
+computer
+cup
+window
+table
+chair
+tree
+green
+house
